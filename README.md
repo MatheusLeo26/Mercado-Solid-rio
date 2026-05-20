@@ -7,7 +7,7 @@
 O **Coleta ProgAção** (hospedado no repositório *Mercado Solidário*) é uma aplicação interativa via terminal que visa estruturar e organizar o cadastro de pessoas interessadas em participar de campanhas de reciclagem. O sistema aplica conceitos sólidos de Programação Orientada a Objetos (POO) para gerenciar dados com eficiência e clareza.
 
 ### 🎓 Contexto Acadêmico
-Este projeto foi desenvolvido como parte da **UPX (Usina de Projetos Experimentais)** do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da **Facens** (5º Semestre), focado no eixo de Transformação Digital.
+Este projeto foi desenvolvido como parte da **UPX (Usina de Projetos Experimentais)** do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da **Facens** (3º Semestre), focado no eixo de Transformação Digital.
 
 ## 🚀 Funcionalidades
 
